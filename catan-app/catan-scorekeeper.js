@@ -127,16 +127,16 @@ $("select#sel1.form-control.numberOfPlayers").change(function() {
 $("select#sel1.form-control.numberOfPlayers").change(function() {
 	if(this.value === "5")
 	{ 
-	$(".p5Div").show();
-	$(".p6Div").hide();
+	$(".p5Div").show(300);
+	$(".p6Div").hide(300);
 	}
 	if(this.value === "6")
 	{ 
-	$(".p5Div, .p6Div").show();
+	$(".p5Div, .p6Div").show(300);
 	}
 	if(this.value === "4")
 	{ 
-	$(".p5Div, .p6Div").hide();
+	$(".p5Div, .p6Div").hide(300);
 	}
 });
 
