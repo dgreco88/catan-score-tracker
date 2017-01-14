@@ -6,6 +6,6 @@ app.get("/", function(req, res){
    res.sendFile(path.join(__dirname + '/catan scorekeeper data.html'));
 });
 
-app.listen(process.env.PORT, process.env.IP, function(){
+app.listen(3000, function(){
     console.log("server started");
 });
