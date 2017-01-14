@@ -118,5 +118,5 @@
   },
   "directories": {},
   "_resolved": "https://registry.npmjs.org/express/-/express-4.14.0.tgz",
-  "main": "index.js"
+  "main": "catan-app/index.js"
 }
