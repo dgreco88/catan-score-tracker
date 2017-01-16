@@ -1,5 +1,7 @@
-Dan Greco's first app catan scorekeeper - front end only
+# Settlers of Catan Scorekeeper App
+* Track player scores during your Catan games
+* Coming soon - backend stat tracker
 
-track player scores during catan games
+[See it in action!](https://dgreco88.github.io/catan-score-tracker/catan-scorekeeper.html)
 
-Coming soon - backend stat tracker
+by [Dan Greco](http://dan-greco.com/)
