@@ -99,8 +99,13 @@
   "_from": "express@latest",
   "_npmVersion": "1.4.28",
   "_npmUser": {
+<<<<<<< HEAD
     "name": "dougwilson",
     "email": "doug@somethingdoug.com"
+=======
+    "name": "dan",
+    "email": "dan@dan-greco.com"
+>>>>>>> b14443e599e05ac71617545853124e1c9d89226f
   },
   "maintainers": [
     "dougwilson <doug@somethingdoug.com>",
@@ -118,5 +123,9 @@
   },
   "directories": {},
   "_resolved": "https://registry.npmjs.org/express/-/express-4.14.0.tgz",
+<<<<<<< HEAD
   "main": "app.js"
+=======
+  "main": "catan-app/index.js"
+>>>>>>> b14443e599e05ac71617545853124e1c9d89226f
 }
